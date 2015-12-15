@@ -1,0 +1,28 @@
+name: g33k4u
+favicon: null
+layout_spectrum: 0.21525892056524754
+typography_spectrum: 0.4311447166837752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2279702560044825
+  lightness: 0.7485667476430535
+  saturation: 0.6041226983070374
+  rhythmicContrast: 0.12386293173767626
+purpose: []
