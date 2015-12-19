@@ -1,6 +1,6 @@
 name: g33k4u
 favicon: null
-layout_spectrum: 0.21525892056524754
+layout_spectrum: 1
 typography_spectrum: 0
 title: g33k4u
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.2279702560044825
+    - '#251309'
+    - '#6b371a'
+    - '#934c29'
+    - '#da7215'
+    - '#c46530'
+  brandStrength: 0.5
   lightness: 0.7485667476430535
   saturation: 0.6041226983070374
   rhythmicContrast: 0.12386293173767626
